@@ -12,8 +12,8 @@ export default function Home() {
         Yasper
       </h1>
       <h2>
-        He walks into the room, brimming with excitement. Let's ask him some
-        questions.
+        He walks into the room, brimming with excitement. Let&apos;s ask him
+        some questions.
       </h2>
       <Image
         src={"/Yasper.png"}
